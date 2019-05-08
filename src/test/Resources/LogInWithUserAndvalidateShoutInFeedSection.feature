@@ -1,4 +1,4 @@
-#Author: kkbit233@gmail.com
+#Author: charles.w89@gmail.com
 @test
 Feature: I want to add user in domain who expected to be follow another user and verify he/she see the shout in his/her feed
 	Scenario: i want to signup a fan user to follow another user 

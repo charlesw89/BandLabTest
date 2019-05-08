@@ -1,0 +1,32 @@
+!SESSION 2019-05-07 20:56:36.454 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charleswilson/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/charleswilson/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-07 20:56:48.096
+!MESSAGE System property http.nonProxyHosts has been set to 360.cn|*.360.cn|ali.com|*.ali.com|alibaba-inc.com|*.alibaba-inc.com|alibaba.com|*.alibaba.com|alibaba.net|*.alibaba.net|alibabacorp.com|*.alibabacorp.com|alicdn.com|*.alicdn.com|aliexpress.com|*.aliexpress.com|alikunlun.com|*.alikunlun.com|alipay-corp.com|*.alipay-corp.com|alipay-inc.com|*.alipay-inc.com|alipay.com|*.alipay.com|alipay.net|*.alipay.net|alipayobjects.com|*.alipayobjects.com|alitrip.com|*.alitrip.com|aliway.com|*.aliway.com|aliyun-inc.com|*.aliyun-inc.com|aliyuncs.com|*.aliyuncs.com|alizoo.com|*.alizoo.com|amap.com|*.amap.com|antfin-inc.com|*.antfin-inc.com|antfin.com|*.antfin.com|antfinancial-corp.com|*.antfinancial-corp.com|antsdaq-corp.com|*.antsdaq-corp.com|anyproxy.io|*.anyproxy.io|atatech.org|*.atatech.org|baidu.com|*.baidu.com|cainiao-inc.com|*.cainiao-inc.com|cnzz.com|*.cnzz.com|dingtalk.com|*.dingtalk.com|dingtalkapps.com|*.dingtalkapps.com|ele.me|*.ele.me|ele.to|*.ele.to|eleme.cn|*.eleme.cn|eleme.com.cn|*.eleme.com.cn|eleme.io|*.eleme.io|elemecdn.cn|*.elemecdn.cn|elemecdn.com|*.elemecdn.com|elenet.me|*.elenet.me|koubei-corp.com|*.koubei-corp.com|mayibank.net|*.mayibank.net|mmstat.com|*.mmstat.com|mybank-corp.cn|*.mybank-corp.cn|nlark.com|*.nlark.com|qq.com|*.qq.com|rajax-inc.com|*.rajax-inc.com|rajax-inc.net|*.rajax-inc.net|rajax.me|*.rajax.me|taobao.com|*.taobao.com|taobao.net|*.taobao.net|taobao.org|*.taobao.org|tbcdn.cn|*.tbcdn.cn|tbsite.net|*.tbsite.net|tmall.net|*.tmall.net|weiyun.com|*.weiyun.com|yunos-inc.com|*.yunos-inc.com|yunos.com|*.yunos.com|yuque.com|*.yuque.com|zmxy-corp.com.cn|*.zmxy-corp.com.cn|cloudprinter-hz.taobao.ali.com|*.cloudprinter-hz.taobao.ali.com|h5.dingtalk.com|*.h5.dingtalk.com|weibo.com|*.weibo.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-07 20:56:48.098
+!MESSAGE System property socksProxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-07 20:56:48.098
+!MESSAGE System property socksProxyPort has been set to 13659 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2019-05-08 11:22:02.396 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/charleswilson/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/charleswilson/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-08 11:22:09.964
+!MESSAGE System property http.nonProxyHosts has been set to 360.cn|*.360.cn|ali.com|*.ali.com|alibaba-inc.com|*.alibaba-inc.com|alibaba.com|*.alibaba.com|alibaba.net|*.alibaba.net|alibabacorp.com|*.alibabacorp.com|alicdn.com|*.alicdn.com|aliexpress.com|*.aliexpress.com|alikunlun.com|*.alikunlun.com|alipay-corp.com|*.alipay-corp.com|alipay-inc.com|*.alipay-inc.com|alipay.com|*.alipay.com|alipay.net|*.alipay.net|alipayobjects.com|*.alipayobjects.com|alitrip.com|*.alitrip.com|aliway.com|*.aliway.com|aliyun-inc.com|*.aliyun-inc.com|aliyuncs.com|*.aliyuncs.com|alizoo.com|*.alizoo.com|amap.com|*.amap.com|antfin-inc.com|*.antfin-inc.com|antfin.com|*.antfin.com|antfinancial-corp.com|*.antfinancial-corp.com|antsdaq-corp.com|*.antsdaq-corp.com|anyproxy.io|*.anyproxy.io|atatech.org|*.atatech.org|baidu.com|*.baidu.com|cainiao-inc.com|*.cainiao-inc.com|cnzz.com|*.cnzz.com|dingtalk.com|*.dingtalk.com|dingtalkapps.com|*.dingtalkapps.com|ele.me|*.ele.me|ele.to|*.ele.to|eleme.cn|*.eleme.cn|eleme.com.cn|*.eleme.com.cn|eleme.io|*.eleme.io|elemecdn.cn|*.elemecdn.cn|elemecdn.com|*.elemecdn.com|elenet.me|*.elenet.me|koubei-corp.com|*.koubei-corp.com|mayibank.net|*.mayibank.net|mmstat.com|*.mmstat.com|mybank-corp.cn|*.mybank-corp.cn|nlark.com|*.nlark.com|qq.com|*.qq.com|rajax-inc.com|*.rajax-inc.com|rajax-inc.net|*.rajax-inc.net|rajax.me|*.rajax.me|taobao.com|*.taobao.com|taobao.net|*.taobao.net|taobao.org|*.taobao.org|tbcdn.cn|*.tbcdn.cn|tbsite.net|*.tbsite.net|tmall.net|*.tmall.net|weiyun.com|*.weiyun.com|yunos-inc.com|*.yunos-inc.com|yunos.com|*.yunos.com|yuque.com|*.yuque.com|zmxy-corp.com.cn|*.zmxy-corp.com.cn|cloudprinter-hz.taobao.ali.com|*.cloudprinter-hz.taobao.ali.com|h5.dingtalk.com|*.h5.dingtalk.com|weibo.com|*.weibo.com by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-08 11:22:09.987
+!MESSAGE System property socksProxyHost has been set to 127.0.0.1 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2019-05-08 11:22:09.987
+!MESSAGE System property socksProxyPort has been set to 13659 by an external source. This value will be overwritten using the values from the preferences

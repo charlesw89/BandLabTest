@@ -152,6 +152,7 @@ public class ActionMethods extends BaseMethods{
 				driver.get("https://www.bandlab.com/"+userdetail+"");
 			}
 			driver.get("https://www.bandlab.com/"+username+"");
+			staticWait();
 			waitForElementToBeAppear(By.xpath("//button[@ng-show='!vm.user.isBlockingMe && !vm.user.isBlocked && !vm.user.isFollower']"));
 			driver.findElement(By.xpath("//button[@ng-show='!vm.user.isBlockingMe && !vm.user.isBlocked && !vm.user.isFollower']")).click();
 			waitForElementToBeAppear(By.xpath("//span[@ng-show='vm.user.isFollower && !vm.isOwnProfile' and text()=' Following ']"));
@@ -166,6 +167,7 @@ public class ActionMethods extends BaseMethods{
 		try {			
 			waitForElementToBeAppear(By.xpath("//a[@href='/feed']"));
 			driver.findElement(By.xpath("//a[@href='/feed']")).click();
+			staticWait();
 			driver.get(driver.getCurrentUrl());
 			staticWait();
 			waitForElementToBeAppear(By.xpath("//a[@href='/"+username+"']/ancestor::div[@class='post-card-header-title']/span[text()='  posted a photo ']"));
